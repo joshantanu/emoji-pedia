@@ -1,0 +1,60 @@
+{
+  "title": "EMOJI-PEDIA CHALLENGE",
+  "subtitle": "Keep your fingers ready on the keyboard. Decode the emoji strings in the chat as fast as you can!",
+  "rounds": [
+    {
+      "title": "Round 1: Corporate Life",
+      "questions": [
+        { "emojis": "🤫 📧 📎", "answer": "Confidential Email Attachment" },
+        { "emojis": "🌱 🤝 📅", "answer": "New Business Meeting" },
+        { "emojis": "💻 🤫 🔇", "answer": "You're on Mute!" },
+        { "emojis": "⏰ ☕ 🔋", "answer": "Morning Coffee Recharge" },
+        { "emojis": "🏃‍♂️ 💨 🔙", "answer": "Be right back" },
+        { "emojis": "👀 👋 🌅", "answer": "See you tomorrow" },
+        { "emojis": "👏 🙌", "answer": "Good Job!" },
+        { "emojis": "🤔 📈 ❓", "answer": "What is your status?" },
+        { "emojis": "💻 🔄 🔌", "answer": "Machine is restarting" }
+      ]
+    },
+    {
+      "title": "Round 2: Blockbuster Movies",
+      "questions": [
+        { "emojis": "🦁 👑", "answer": "The Lion King" },
+        { "emojis": "💀🤵👻🎄", "answer": "The Nightmare before Christmas" },
+        { "emojis": "🚢 🥶 🌊", "answer": "Titanic" },
+        { "emojis": "🕵️ 🏎️ 🇬🇧", "answer": "James Bond" },
+        { "emojis": "👧🪆🪑👹", "answer": "Annabelle" },
+        { "emojis": "💀 🌊 🧭 ⚔️", "answer": "Pirates of the Caribbean" },
+        { "emojis": "🏎️ 🏁 🏆", "answer": "F1" },
+        { "emojis": "😱 👦 🏠", "answer": "Home alone" }
+      ]
+    },
+    {
+      "title": "Round 3: Hit Songs & Bands",
+      "questions": [
+        { "emojis": "💃 🐒", "answer": "Dance Monkey" },
+        { "emojis": "💭 🐉", "answer": "Imagine Dragons" },
+        { "emojis": "🔺 🔵 ⭐ 🫵", "answer": "Shape of you" },
+        { "emojis": "🏨 🌴 🦅", "answer": "Hotel California" },
+        { "emojis": "🤫 🚫 🕺", "answer": "Shut up and Dance" }
+      ]
+    },
+    {
+      "title": "Round 4: Cities & Countries",
+      "questions": [
+        { "emojis": "🗼 🥖 🍷", "answer": "Paris, France" },
+        { "emojis": "🗽 🍎 🏙️", "answer": "New York City, USA" },
+        { "emojis": "🦘 🐨 🗺️", "answer": "Australia" },
+        { "emojis": "🍕 🍷 🏟️", "answer": "Italy" },
+        { "emojis": "🍁 🌲 🥞", "answer": "Canada" },
+        { "emojis": "🍛 🦚 🕌", "answer": "India" },
+        { "emojis": "🐊 🌴 ☀️", "answer": "Florida, USA" },
+        { "emojis": "💂‍♂️ 🎡 🌧️", "answer": "London, UK" },
+        { "emojis": "🍺 🥨 🚗 ⚽", "answer": "Germany" },
+        { "emojis": "🏔️ 🧀 🍫 ⏰", "answer": "Switzerland" },
+        { "emojis": "🍣 🌸 🚄 🗻", "answer": "Japan" },
+        { "emojis": "🌮 🎺 ☀️", "answer": "Mexico, Mexico" }
+      ]
+    }
+  ]
+}
